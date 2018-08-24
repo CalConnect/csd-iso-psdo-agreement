@@ -1,0 +1,16 @@
+
+== Scope
+
+This document addresses publication processes for these
+collaborative cases between {collaboration-party} and CalConnect ("`Parties`"):
+
+* co-development of a standardization work item, proposed by either party
+* CalConnect submission of a document to {collaboration-party} for the International Standardization process
+
+Standardization processes in this document is intended to align
+with <<ISODIR1>> and <<ISODIR1C>>,
+
+////
+* ISO standardization deliverables, including International Standards,
+* Public Specifications
+////

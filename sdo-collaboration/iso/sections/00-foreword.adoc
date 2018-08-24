@@ -1,0 +1,18 @@
+
+.Foreword
+The Calendaring and Scheduling Consortium ("`CalConnect`") is global
+non-profit organization with the aim to facilitate interoperability of
+technologies across user-centric systems and applications.
+CalConnect works closely with liaison partners including international
+organizations such as ISO, OASIS and M3AAWG.
+
+ISO (the International Organization for Standardization)
+is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.
+
+Any trade name used in this document is information given for the
+convenience of users and does not constitute an endorsement.
+
+This document was prepared by the Joint Coordination Group of
+{collaboration-party} and CalConnect.
+
+This is the first edition of this document.

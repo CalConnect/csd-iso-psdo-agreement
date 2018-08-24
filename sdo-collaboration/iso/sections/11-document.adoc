@@ -1,0 +1,53 @@
+
+[[deliverable]]
+== Deliverable requirements
+
+=== General
+
+{collaboration-party} and CalConnect wish to establish rules to ensure
+the collaborative effort by both parties are mutually
+recognized within deliverables.
+
+
+=== Trademark and copyright statements
+
+Similar to the process applied on national adoption
+of an ISO deliverable, trademarks and copyright statements
+of both organizations will appear on the document cover page as
+well as in the foreword.
+
+=== Publication dates
+
+The edition year and the year of publishing of a joint deliverable
+shall be identical in the ISO and CalConnect deliverables.
+
+=== Cover page
+
+In ISO and CalConnect deliverables, as well as any further adoptions,
+shall retain the logographic marks of both organizations.
+
+=== Introduction part
+
+The introduction shall state that it is a joint work product
+between {collaboration-party} and CalConnect.
+
+
+=== Document identifier and references
+
+ISO deliverables published under this agreement will be referenced
+in as ISO/CC in ISO documents, and CalConnect deliverables
+will be referenced as as CC/ISO within CalConnect
+documents.
+
+References will contain sufficient information for those wishing
+to obtain the equivalent documents of the other party to be
+able to do so.
+
+
+=== Project code
+
+A mutually acceptable number will be used for the
+project code, with the goal of achieving identical
+deliverable numbers in {collaboration-party} and CalConnect to prevent
+potential ambiguity.
+

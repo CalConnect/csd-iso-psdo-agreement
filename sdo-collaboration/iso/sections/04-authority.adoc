@@ -1,0 +1,43 @@
+
+[[jcg]]
+== Joint Coordination Group
+
+=== General
+
+{collaboration-party} and CalConnect establishes a
+Joint Coordination Group ("`JCG`") for:
+
+* maintenance and execution of this agreement; and
+* coordination and maintenance of procedures between two organizations.
+
+=== Mediator for coordination issues
+
+This group meets as necessary and serves as the forum for discussing
+and resolving issues that may arise from time to time.
+
+=== Coordination role
+
+The JCG will support the individual liaisons between
+{collaboration-party} working groups and project teams,
+with CalConnect technical committees.
+
+The presence of the JCG is not intended to affect
+responsibilities of existing organizational structures
+in {collaboration-party} and CalConnect.
+
+////
+=== Terms of reference
+
+The terms of reference for the co-ordination group will be developed
+and accepted by OGC and {collaboration-party} prior to the establishment of the
+group.
+////
+
+=== Members
+
+The JCG is composed of four members:
+
+* Two representatives from {collaboration-party}
+* Two representatives from CalConnect
+
+// (1 from TCC, 1 board representative or ED).

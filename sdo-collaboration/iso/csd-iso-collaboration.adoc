@@ -1,0 +1,36 @@
+= PSDO Agreement between CalConnect and ISO
+:title: PSDO Agreement between CalConnect and ISO
+:docnumber: CD 18001
+:copyright-year: 2018
+:language: en
+:script: Latn
+:doctype: standard
+:edition: 1
+:status: draft
+:revdate: 2018-08-24T00:00:00Z
+:language: en
+:technical-committee: PUBLISH
+:collaboration-party: ISO
+:toc:
+:stem:
+
+:sectnums!:
+
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
+
+:sectnums:
+
+include::sections/01-scope.adoc[]
+include::sections/02-normrefs.adoc[]
+include::sections/03-terms.adoc[]
+include::sections/04-authority.adoc[]
+include::sections/05-ipr.adoc[]
+include::sections/06-process.adoc[]
+include::sections/07-maintenance.adoc[]
+include::sections/08-corrections.adoc[]
+include::sections/09-amendments.adoc[]
+include::sections/10-registration.adoc[]
+include::sections/11-document.adoc[]
+
+include::sections/99-bibliography.adoc[]

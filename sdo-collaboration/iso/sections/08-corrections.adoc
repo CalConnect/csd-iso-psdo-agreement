@@ -1,0 +1,17 @@
+
+[[corrections]]
+== Corrections and amendments
+
+=== Comment distribution
+
+//. formal comments are forwarded from {collaboration-party} to the CalConnect TCC or responsible technical committee, as appropriate;
+
+When a party receives formal comments on the joint work item, it shall
+share it with the other party within 2 weeks of receiving them,
+documented and distributed through the JCG.
+
+=== Joint action
+
+The project groups in both organizations responsible for
+the published deliverable shall work in collaboration to
+address any corrections or necessary amendments.

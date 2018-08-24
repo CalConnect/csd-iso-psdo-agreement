@@ -1,0 +1,5 @@
+
+[bibliography]
+== Bibliography
+
+* [[[WTOTBT,WTO TBT Agreements]]], World Trade Organization, _The WTO Agreements Series Technical Barriers to Trade_

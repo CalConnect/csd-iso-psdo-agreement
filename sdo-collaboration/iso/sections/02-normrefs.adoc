@@ -1,0 +1,14 @@
+
+[bibliography]
+== Normative References
+
+* [[[CALSTD,CalConnect Directives: Standardization and publication]]], _CD 10001, CalConnect Directives: Standardization and publication_
+
+* [[[CALDOC,CalConnect Standing Document: Document requirements]]], _CD 10002, CalConnect Directives: Standard document requirements_
+
+* [[[ISODIR1C,ISO/IEC Directives, Part 1, Consolidated ISO Supplement]]], ISO/IEC Directives, Part 1, Consolidated ISO Supplement, _Procedures specific to ISO_
+
+* [[[ISODIR1,ISO/IEC Directives, Part 1]]], ISO/IEC Directives, Part 1, _Procedures for the technical work_
+
+* [[[ISODIR2,ISO/IEC Directives, Part 2]]], ISO/IEC Directives, Part 2, _Principles and rules for the structure and drafting of ISO and IEC documents_
+
