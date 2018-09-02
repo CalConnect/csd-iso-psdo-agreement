@@ -1,0 +1,70 @@
+
+[appendix,obligation=normative]
+[[process]]
+== Alignment of project timeline
+
+=== Project stage mapping
+
+The following table provides a mapping between ISO project stages and
+CalConnect project stages. This document identifies stages
+according to the ISO project stage names.
+
+[cols="1,1,1",options="header"]
+.Alignment between ISO and CalConnect project stages
+|===
+|Identification in this document
+|ISO harmonized stage (<<ISODIR1>>)
+|CalConnect stage
+
+|*Preliminary*
+|00 Preliminary
+|00 Preliminary
+
+|*Proposal*
+|10 Proposal
+|10 Proposal
+
+|*Preparatory*
+|20 Preparatory
+|20 Preparatory
+
+|*Committee*
+|30 Committee
+|30 Committee
+
+|*Enquiry*
+|40 Enquiry
+|40 Enquiry
+
+|*Approval*
+|50 Approval
+|50 Approval
+
+|*Publication*
+|60 Publication
+|60 Publication
+
+|*Review*
+|90 Review
+|90 Review
+
+|*Withdrawal*
+|95 Withdrawal
+|95 Withdrawal
+
+|===
+
+
+=== Track synchronization
+
+ISO deliverables can be developed according to different tracks
+and timelines detailed in <<ISODIR1>> and <<ISODIR1C>>.
+
+CalConnect deliverables are developed according to the
+timelines detailed in <<CALSTD>>.
+
+For a project under this agreement, CalConnect agrees to adopt
+a developmental track not slower than the track selected in
+{collaboration-party} to ensure the synchronicity between
+development outcome and publication.
+

@@ -1,0 +1,178 @@
+
+[[principles]]
+== Principles of cooperation
+
+=== Collaborative development process
+
+A collaborative development process is crucial to effective development
+of work items between {collaboration-party} and CalConnect.
+
+Both organizations agree to align appropriate internal processes
+and procedures in order to facilitate joint development of work items.
+
+Three mechanisms are provided below for cooperative development of
+joint publications between ISO and CalConnect, namely:
+
+. CalConnect contributes content to ISO;
+. ISO and CalConnect co-develop a joint deliverable;
+. Adoption of an existing standard from either party.
+
+
+=== Central coordination group
+
+ISO and CalConnect agree to the establishment of a joint coordination group
+(JCG) to coordinate matters relevant to the execution and maintenance
+of this agreement.
+
+
+
+[[principles-normref]]
+=== Normative referencing
+
+ISO and CalConnect agree to the normative referencing of their
+standards as appropriate in publications of the other organization in
+compliance with each organization's policies and directives relative to
+normative references.
+
+Implementation details are provided in <<joint-copyright-declaration>>.
+
+
+=== Patent policy
+
+// From OGC
+ISO and CalConnect agree that content of joint deliverables,
+including the ISO published form of joint publications,
+will remain free of IPR restrictions that would limit their application.
+
+Patented content in a joint deliverable is governed by the
+ISO patent policy and the CalConnect IPR policy.
+
+Any patents involved knowingly in the document shall be made
+transparent prior to the DIS stage of the joint deliverable.
+
+
+
+[[principles-contributions]]
+=== Contributions to ISO standards
+
+// This section from IEEE PSDO
+
+ISO International Standards are normally developed within ISO
+Committees. As part of this normal development process, an ISO
+committee may determine that specific elements of an CalConnect
+standard (e.g. figures, data, definitions), along with information from
+other sources, would contribute to the development of an ISO Standard.
+
+As specified in the <<ISODIR1C>>, original material contributed to
+become part of an ISO publication is normally copied and distributed
+within the ISO system as part of the consensus-building process, this
+being without prejudice to the rights of the original copyright owner
+to exploit the original text.
+
+It is also recognized that, where such material is already subject to
+copyright, rights have to be granted to ISO to reproduce and circulate
+the material.
+
+As part of this agreement, CalConnect grants a licence to ISO described
+in <<calconnect-iso-license>>
+for using elements of a CalConnect standard in the development of joint
+publications.
+
+
+[[principles-codevelopment]]
+=== Co-development of standards
+
+// This section from IEEE PSDO
+
+In cases where CalConnect has developed a standard, or where CalConnect
+is proposing or developing a standard (yet unpublished), which
+corresponds to a stated ISO TC need covered by this agreement.
+
+In these instances, the relevant ISO TC and CalConnect TC
+may agree that it would be mutually beneficial to develop work jointly.
+
+ISO and CalConnect agree to a coordinated and specified process for the
+co-development of joint publications.
+
+The detailed process and procedures are provided in <<process-codevelopment>>; copyright of the
+resulting deliverables is explained in <<copyright-codevelopment>>.
+
+
+[[principles-adoption]]
+=== Adoption of existing standards
+
+==== General
+
+ISO and CalConnect agree to a coordinated and specified process for the
+adoption of either party's standardization work items, where:
+
+* CalConnect may wish to formally adopt a published ISO
+  International Standard;
+
+* CalConnect may propose that an existing CalConnect standard be
+  submitted as a final draft International Standard (FDIS) at ISO.
+
+Copyright of joint publications created through adoption is
+explained in <<copyright-adopted>>.
+
+
+[[principles-adoption-calconnect]]
+==== Adoption of an ISO Standard by CalConnect
+
+// This section from IEEE PSDO
+
+CalConnect may wish to formally adopt a published ISO International
+Standard.
+
+In this case, the source party is ISO and the adopting party
+is CalConnect.
+
+The method of adoption is specified in <<adoption-calconnect>>.
+
+
+[[principles-adoption-proposal]]
+==== Adoption of a CalConnect Standard by ISO
+
+// This section from IEEE PSDO
+
+A published CalConnect standard with global use and acceptance may be
+proposed for adoption as an ISO International Standard, through the
+FDIS fast-track procedure of submitting a CalConnect standard to ISO.
+
+In this case, the source party is CalConnect and the adopting party
+is ISO.
+
+The method of adoption is detailed in <<adoption-iso>>.
+
+
+[[principles-maintenance]]
+=== Maintenance of joint publications
+
+// This section from IEEE PSDO
+
+Maintenance of joint publications shall be a joint responsibility under
+a joint process.
+
+Details of the implementation of this clause is described in <<maintenance>>.
+
+In joint publications where a maintenance agency or registration authority
+is necessary, CalConnect agrees to serve as the default volunteer, as
+described in <<agency>>.
+
+
+[[principles-mutual-recognition]]
+=== Mutual recognition and joint deliverables requirements
+
+ISO and CalConnect shall establish rules to ensure
+the collaborative effort by both parties are mutually
+recognized within joint deliverables.
+
+The associated requirements are provided in <<deliverable>>.
+
+
+[[principles-promotion]]
+=== Promotional activities
+
+ISO and CalConnect agree to share and coordinate promotional activities
+for the joint publication via the JCG.
+

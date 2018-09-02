@@ -1,0 +1,87 @@
+
+[appendix,obligation=normative]
+[[process-adoption]]
+== Adoption process
+
+=== General
+
+ISO and CalConnect agree to a coordinated and specified process for the
+adoption of either party's standardization work items, where:
+
+* CalConnect may wish to formally adopt a published ISO International Standard;
+
+* CalConnect may propose that an existing CalConnect standard be
+submitted as a final draft International Standard (FDIS) at ISO.
+
+
+[[adoption-calconnect]]
+=== Adoption of an ISO Standard by CalConnect
+
+CalConnect may wish to formally adopt a published ISO International
+Standard as described in <<principles-adoption-calconnect>>,
+
+// TODO
+Such adoption shall be subject to an agreement between CalConnect and
+the ISO member body in the country where CalConnect has its legal seat
+(ANSI).
+
+
+
+[[adoption-iso]]
+=== Adoption of a CalConnect Standard by ISO
+
+==== General
+
+As described in <<principles-adoption-proposal>>, a CalConnect
+standard may be adopted by ISO.
+
+The adoption of a CalConnect standard at ISO is through FDIS fast-track
+as described in this clause.
+
+Adoption by ISO FDIS approval is intended to validate an existing
+CalConnect standard through ISO's established member body approval
+mechanism.
+
+
+==== Initiation by CalConnect
+
+CalConnect may propose an existing CalConnect standard to be submitted
+as a final draft International Standard (FDIS) at ISO.
+
+Such requests shall be submitted to the Secretary-General of ISO for
+acceptance.
+
+The ISO Secretary-General shall then submit a proposal to the relevant
+ISO committee for a 30-day ballot which shall decide, by simple majority
+vote, on:
+
+. the need for an ISO International Standard on the subject; and
+
+. submission of the proposal for FDIS ballot.
+
+
+==== Initiation by ISO
+
+Any ISO TC may decide to invite, by simple majority vote, CalConnect to
+offer a particular CalConnect standard for adoption under this
+agreement, provided agreement has been obtained from CalConnect.
+
+Where an ISO TC confirms the need for an ISO International Standard,
+but determines that the proposed CalConnect standard should not be
+submitted for FDIS ballot, CalConnect shall be consulted on its
+interest to proceed with the project jointly.
+
+
+==== Approval
+
+Requirements for acceptance shall be those pertaining to the FDIS
+approval stage in <<ISODIR1C>>.
+
+Upon acceptance by CalConnect and the relevant ISO TC, the CalConnect
+standard shall be circulated to ISO members for a five-month approval
+vote (to also allow for national public review and, where necessary,
+translation).
+
+The adoption is considered approved once the FDIS ballot is approved.
+
+The process described in <<process-pub-isocc>> also applies.

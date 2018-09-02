@@ -1,0 +1,94 @@
+
+[appendix,obligation=normative]
+[[deliverable]]
+== Deliverable requirements
+
+=== Document layout
+
+CalConnect and ISO will establish a consistent layout, including
+associated supporting information (e.g. foreword, introduction), for
+joint publications.
+
+
+=== Trademark and copyright statements
+
+Similar to the process applied on national adoption
+of an ISO deliverable, trademarks and copyright statements
+of both organizations shall appear on the document cover page as
+well as in the foreword.
+
+
+=== Patent statement
+
+A suitable patent statement in accordance with the ISO patent policy
+and the CalConnect patent policy shall be stated in the foreword
+of the document.
+
+
+=== Publication dates
+
+The edition year and the year of publishing of a joint deliverable
+shall be identical in the ISO and CalConnect deliverables.
+
+=== Cover page
+
+In ISO and CalConnect publications of the joint publication,
+as well as any further adoptions, shall retain the logographic marks
+of both organizations.
+
+The joint publication shall also provide a single document identifier
+on the cover page.
+
+
+=== Introduction part
+
+The introduction shall state that it is a joint work product
+between {collaboration-party} and CalConnect.
+
+
+=== Document identifier and references
+
+ISO publications published through joint publication under this
+agreement will be referenced with the following prefixes:
+
+* "ISO/CC" in ISO documents
+* "CC/ISO" in CalConnect documents
+
+In case that a joint publication is performed under ISO/IEC JTC 1,
+the resulting prefixes are:
+
+* "ISO/IEC/CC" in ISO and IEC documents;
+* "CC/ISO/IEC" in CalConnect documents
+
+References shall contain sufficient information for those wishing
+to obtain the equivalent documents of the other party to be
+able to do so.
+
+
+[example]
+In "ISO/CC 18001:2018", "ISO/CC" is the prefix, "18001" the project code, and "2018" the edition date.
+
+[example]
+"ISO/IEC/CC 28001:2018", "ISO/IEC/CC" is the prefix, "28001" the project code, and "2018" the edition date.
+
+
+=== Project code
+
+A mutually acceptable number will be used for the project code, with
+the goal of achieving identical deliverable numbers in ISO and
+CalConnect to prevent potential ambiguity.
+
+ISO and CalConnect shall also give consideration to any previous numbering
+used by ISO or CalConnect to determine the number designation for the
+Standards developed in accordance with this agreement.
+
+
+=== Editorial work
+
+ISO and CalConnect will perform final editorial/production work on the
+joint work item with approval of the final proof by both parties prior
+to ISO publication.
+
+CalConnect and ISO will not charge each other for any editing or
+production work undertaken in development of the final
+ISO/CalConnect Standard.

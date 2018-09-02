@@ -1,16 +1,15 @@
 
 == Scope
 
-This document addresses publication processes for these
+This document describes the agreement between CalConnect and ISO for
+the cooperation of standards development and publication.
+
+Specifically, it provides the principles and necessary processes for these
 collaborative cases between {collaboration-party} and CalConnect ("`Parties`"):
 
 * co-development of a standardization work item, proposed by either party
-* CalConnect submission of a document to {collaboration-party} for the International Standardization process
+* submission of a CalConnect document to {collaboration-party} for its
+standardization process
 
 Standardization processes in this document is intended to align
-with <<ISODIR1>> and <<ISODIR1C>>,
-
-////
-* ISO standardization deliverables, including International Standards,
-* Public Specifications
-////
+with <<ISODIR1>>, <<ISODIR1C>>, <<CALSTD>> and <<CALDOC>>.

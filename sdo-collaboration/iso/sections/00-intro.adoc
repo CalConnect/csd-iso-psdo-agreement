@@ -4,49 +4,53 @@
 === Purpose
 
 The purpose of this document is to establish an understanding between
-{collaboration-party} and The Calendaring and Scheduling Consortium
-(known as "`CalConnect`").
+{collaboration-party} and CalConnect on cooperation on standards development.
 
 This document formalizes the process of collaboration of {collaboration-party}
-and CalConnect to co-operate and to
+and CalConnect to cooperate and to
 enable the collaborative development of standards.
 
 The resulting standards are to be jointly published by {collaboration-party}
-in accordance to the ISO process, and by CalConnect
-as CalConnect standards.
+in accordance to the standardization process at {collaboration-party}, and by CalConnect.
+
 
 === Background
 
+One of the objectives of ISO is to facilitate the international
+exchange of goods and services through the development of International
+Standards.
+
+The ISO Council has adopted a policy of inclusiveness
+and encourages cooperation between ISO and other standardizing bodies,
+where such cooperation would serve to ensure effective and efficient
+use of resources available for standardization activities.
+
 The Calendaring and Scheduling Consortium ("`CalConnect`") is global
 non-profit organization with the aim to facilitate interoperability of
-technologies across user-centric systems and applications.
+collaborative technologies, with its standards being globally recognized
+and widely applied.
+
+=== Intention
+
+ISO and CalConnect agree to the principles of cooperation described in this document,
+in all fields subject to approval by the ISO Technical Management Board and the
+CalConnect TC PUBLISH and TCC.
+
+
+=== Process cooperation
+
+ISO and CalConnect wishes to avoid duplication of efforts by their
+respective committees.
+
+ISO produces International Standards in accordance with processes described in
+<<ISODIR1C>> and <<ISODIR1>>, with the standard documents drafted
+in accordance with the editorial rules of <<ISODIR2>>.
 
 CalConnect creates publicly available CalConnect Standards through
 a consensus-based standardization process described in
 <<CALSTD>>, and documents created in accordance with <<CALDOC>>.
 
-{collaboration-party} produces ISO International Standards for Geographical information/Geomatics in accordance with processes described in
-<<ISODIR1C>> and <<ISODIR1>>, with the standard documents drafted
-in accordance with the editorial rules of <<ISODIR2>>.
-
 ////
-=== Intention
-
-− OGC wishes to obtain ISO International Standard status for its Industry Implementation Specifications.
-
-− {collaboration-party} wishes to adopt appropriate Industry Implementation Specifications as ISO International Standards or other ISO deliverables.
-
-− OGC wishes, while retaining its market responsiveness, to align with {collaboration-party} on working practices.
-
-− {collaboration-party} wishes, within the constraints of the ISO Directives, to co-operate with OGC in assisting the alignment of life cycle working practices.
-
-− OGC and ISO/TC211 wish to harmonize and agree the irrespective work programmes and to set up a group to handle issues under this agreement.
-
-− OGC and ISO/TC211 wish to achieve mutual benefit from sharing the expertise of domain experts of the two organisations and they welcome cross-project participation.
-////
-
-=== Intent
-
 CalConnect is a Category A Liaison organization
 with {collaboration-party}, and is allowed to submit standardization documents
 through the ISO "`Fast-Track`" and PAS submission procedures
@@ -54,6 +58,11 @@ through the ISO "`Fast-Track`" and PAS submission procedures
 
 However, both {collaboration-party} and CalConnect believe that
 a collaborative development process provides additional benefits:
+////
+
+Both {collaboration-party} and CalConnect believe that
+cooperation at the standards development process level
+provides the following benefits:
 
 * maximizes the deliverable expertise of their experts; and
 * maximizes the quality of the resulting International Standard.

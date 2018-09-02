@@ -1,0 +1,146 @@
+
+[appendix,obligation=normative]
+[[maintenance]]
+== Maintenance of joint deliverables
+
+=== General
+
+The project groups in both organizations responsible for
+the published deliverable shall work in collaboration to
+address any corrections or necessary amendments.
+
+// From IEEE
+The intention is to coordinate the initiation of revisions and to
+maintain, to the greatest extent possible, one common ISO/CalConnect
+Standard on a given subject.
+
+// From IEEE
+When a joint deliverable is deemed to be updated, both parties agree that each
+other has the first right of refusal.
+
+The revisions shall be published jointly as described
+in <<process-publication>>.
+
+
+=== Systematic review and outcome
+
+// This section from IEEE PSDO
+
+Joint publications that have been published for four (4) years since
+their last approval date shall be reviewed in their entirety by the
+responsible JMG, as determined by the JCG.
+
+A decision shall be made by both parties at the end of the review
+period, on whether to:
+
+. confirm the standard, for which no change is necessary;
+. revise, as a new joint work item; or
+. withdraw the standard.
+
+The decided action shall be initiated within five (5) years of the last
+approval date.
+
+NOTE: The four (4) years review period provides a one (1) year
+timeframe for which a review decision can be made, in accordance with
+<<ISODIR1C>> and <<CALSTD>> where a maximum of five (5) years is
+allowed between reviews.
+
+
+=== Participation
+
+==== Agree to jointly maintain
+
+When both the ISO TC and CalConnect agree to jointly revise the
+standard, a joint maintenance group (JMG) is established consisting of
+nominated experts from the relevant CalConnect and ISO TCs.
+
+ISO and CalConnect mutually agree on a Convener for the MG.
+
+
+==== Non-participation of ISO TC
+
+If CalConnect initiates revision to the document and the relevant ISO
+TC decides not to participate in the revision process, ISO shall ensure
+that the ISO/CalConnect Standard is not revised until CalConnect has
+completed its revision.
+
+Once the document has been revised, CalConnect may submit the document
+to ISO as a potential new Standard for FDIS fast-track approval to
+supercede the earlier ISO/CalConnect Standard.
+
+Should the revised document not be submitted by CalConnect, or accepted
+by the relevant ISO Committee, the original ISO FDIS fast track
+Standard shall be withdrawn, unless otherwise agreed by both
+organizations.
+
+
+==== Non-participation of CalConnect
+
+If ISO initiates the revision and CalConnect decides not to participate
+in the process, then ISO may continue to revise the Standard.
+
+However, any material used from the original ISO/CalConnect Standard
+will require a separate agreement with CalConnect.
+
+
+=== Comment distribution
+
+//. formal comments are forwarded from {collaboration-party} to the CalConnect TCC or responsible technical committee, as appropriate;
+
+When a party receives formal comments on the joint work item, it shall
+share it with the other party within 2 weeks of receiving them,
+documented and distributed through the JCG.
+
+
+=== Withdrawal
+
+When a review determines that a joint published item should be
+withdrawn, both parties agree that the item to be indicated as
+withdrawn.
+
+
+=== Revision of deliverables
+
+==== Initiation of revision process
+
+Revisions to joint publications can be proposed to the relevant
+CalConnect or ISO TC at any time by members of CalConnect or the
+ISO TC.
+
+
+==== Amendments and full revisions
+
+Amendments and full revisions of a joint deliverable
+are considered joint new work items, and shall be developed in
+accordance with the procedures in <<process-codevelopment>>.
+
+
+==== Corrections
+
+Corrections, such as technical corrigenda, of an ISO/CalConnect
+standard, shall be jointly developed by the appropriate ISO TC
+and CalConnect TC in accordance with each organizations' internal
+procedures.
+
+// TODO: how can we make quick but joint corrections??
+
+
+[[agency]]
+=== Maintenance agency and registration authority
+
+=== General
+
+Both organizations recognize that a maintenance agency or
+registration authority is required for the successful implementation of
+certain standardization deliverables resulting from this agreement.
+
+=== Default volunteer role
+
+For standards developed under this agreement, CalConnect volunteers
+to serve as their maintenance agency or registration authority as
+necessary.
+
+CalConnect shall submit a suitable application to ISO once a NWIP
+requiring establishment of a maintenance agency or registration
+authority for a joint work item is approved.
+

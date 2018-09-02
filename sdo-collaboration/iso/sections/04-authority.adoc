@@ -13,12 +13,12 @@ Joint Coordination Group ("`JCG`") for:
 === Mediator for coordination issues
 
 This group meets as necessary and serves as the forum for discussing
-and resolving issues that may arise from time to time.
+and resolving issues relating to coordination that may arise from time to time.
 
 === Coordination role
 
 The JCG will support the individual liaisons between
-{collaboration-party} working groups and project teams,
+ISO Technical Committee working groups and project teams,
 with CalConnect technical committees.
 
 The presence of the JCG is not intended to affect

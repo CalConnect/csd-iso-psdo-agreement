@@ -1,9 +1,32 @@
 
-[source="ISODIR1,ISODIR1C,ISODIR2"]
+//[source="ISOGUIDE2,ISODIR1,ISODIR1C,ISODIR2"]
+[source="ISOGUIDE2"]
 [[terms]]
 == Terms, definitions and abbreviations
 
 === Terms and definitions
+
+==== ISO members
+
+ISO member bodies and correspondent members
+
+==== CalConnect members
+
+CalConnect member bodies
+
+[[term-iso-tc]]
+==== ISO committee
+alt:[ISO TC]
+
+ISO Technical Committee (including ISO/IEC JTC1) or Subcommittee
+
+[[term-cc-tc]]
+==== CalConnect technical committee
+alt:[CalConnect TC]
+
+internal committee of CalConnect tasked with a scope of work it
+is responsible for
+
 
 [[term-std-project]]
 ==== standardization project
@@ -17,40 +40,41 @@ contributes towards a defined scope of work
 publishable work item that creates output that relates
 to standardization within a _standardization project_ (<<term-std-project>>)
 
+
 [[term-project-owner]]
 ==== project owner
 
 entity with authority in charge of a _standardization project_
 (<<term-std-project>>)
 
+
 [[term-document]]
 ==== document
 
 written output of a work item
 
+
 [[term-cc-deliverable]]
 ==== CalConnect deliverable
 
-_document_ (<<term-document>>) that could be a CalConnect Standard,
+_document_ (<<term-document>>) produced by a _CalConnect TC_ (<<term-cc-tc>>) as described in <<CALSTD>>
+
+that could be a CalConnect Standard,
 Guide, Specification, Report
+
 
 [[term-iso-deliverable]]
 ==== ISO TC deliverable
 
-_document_ (<<term-document>>) of an ISO TC as described in <<ISODIR1>>
+_document_ (<<term-document>>) produced by an _ISO TC_ (<<term-iso-tc>>) as described in <<ISODIR1>>
 
 NOTE: According to <<ISODIR1>>, ISO TC deliverables include the following types: International Standards, Technical Specifications, Publicly Available Specifications and Technical Reports.
 
-[[term-cc-tc]]
-==== CalConnect technical committee
-alt:[CalConnect TC]
-
-internal committee of CalConnect tasked with a scope of work it
-is responsible for
 
 ==== document stage
 
 stage of document as specified in the ISO harmonized stages (as defined in <<ISODIR1C>>)
+
 
 [[term-std-project-output]]
 ==== standardization project output
@@ -60,15 +84,18 @@ output of a _standardization project_ (<<term-std-project>>)
 NOTE: In this document, it explicitly means any documents and IP rights
 produced by the standardization project.
 
+
 [[term-std-proposal]]
 ==== proposal for standardization
 
 proposal for a new work item for standardization
 
+
 [[term-co-develop]]
 ==== co-develop
 
 act of developing a work item by multiple parties from the proposal stage
+
 
 [[term-co-publish]]
 ==== co-publish
@@ -76,16 +103,28 @@ act of developing a work item by multiple parties from the proposal stage
 act of publishing _documents_ (<<term-document>>) of identical content
 by multiple parties
 
+
+[[term-joint-work-item]]
 ==== joint work item
 
 work item _co-developed_ (<<term-co-develop>>) by both parties
+
+[[term-joint-deliverable]]
+==== joint deliverable
+
+completed form of a _joint work item_ that is designated to be
+_co-published_ (<<term-co-publish>>) by {collaboration-party}
+and CalConnect
 
 
 ==== joint publication
 
 publication that is _co-published_ (<<term-co-publish>>) by {collaboration-party} and CalConnect
 
-NOTE: Both parties jointly hold copyright of the joint publication.
+NOTE: different publishers of a joint publication may utilize a
+different document layout
+
+
 
 [[term-jcg]]
 ==== Joint Coordination Group
@@ -93,6 +132,23 @@ alt:[JCG]
 
 advisory group with representatives from {collaboration-party} and CalConnect on
 the execution and maintenance of this agreement
+
+
+[[term-joint-project-group]]
+==== joint project group
+alt:[JPG]
+
+group created to be _project owner_ (<<term-project-owner>>) of a _joint work item_ (<<term-joint-work-item>>),
+composed of participants from _ISO committees_ (<<term-iso-tc>>) and _CalConnect TCs_ (<<term-cc-tc>>)
+
+
+[[term-joint-maintenance-group]]
+==== joint maintenance group
+alt:[JMG]
+
+_joint project group_ (<<term-joint-project-group>>) for the sole purpose of maintaining
+a _joint publication_ (<<term-joint-publication>>)
+
 
 [[term-doc-register]]
 ==== co-development document register
@@ -105,3 +161,7 @@ held by the _Joint Coordination Group_ (<<term-jcg>>)
 === Abbreviations
 
 IPR:: Intellectual Property Rights
+
+TCC:: CalConnect Technical Coordination Committee
+
+TMB:: ISO Technical Management Board

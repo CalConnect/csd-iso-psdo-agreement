@@ -1,0 +1,298 @@
+
+[appendix,obligation=normative]
+[[process-codevelopment]]
+== Co-development process
+
+=== General
+
+// From IEEE
+In joint development, technical level support for the development of
+these standards is provided through the associated CalConnect TC as
+well as the ISO member bodies and their duly appointed technical
+experts through the relevant ISO TC.
+
+Experts in {collaboration-party} are encouraged to participate in the
+technical work on CalConnect technologies by participating in
+CalConnect technical committees.
+
+////
+Since the desire of both organizations is that technical changes are
+not made once work has been passed to {collaboration-party} as a Draft
+International Standard (DIS), {collaboration-party} national bodies will encourage
+their technical experts to participate in OGC working groups.
+////
+
+
+=== First draft
+
+A first draft of the standardization deliverable may be created
+for proposal submission, or may be created in the Committee stage.
+The draft shall be created through a collaboration process between
+experts from both organizations, or at least, the proposing
+organization should have received input from the other organization.
+
+CalConnect agrees that any draft submitted to {collaboration-party}
+shall adhere to the requirements detailed in <<CALDOC>>, <<ISODIR2>> and
+applicable internal guidelines of {collaboration-party}.
+
+
+=== Disapproval and continuance
+
+If the project proposal is rejected by the JCG, its output may still be
+developed by the project proposer if appropriate, and its output may
+still be proposed to the JCG for co-development in later stages.
+
+At any time, if a ballot to approve the development of a joint work item
+is disapproved by ISO or CalConnect, each organization may proceed
+to develop the joint work item independently of each other.
+
+
+=== Proposal development: Preliminary stage
+
+==== General
+
+At the first instance where either party wishes to co-develop
+a project with the other party, it should be raised to the JCG.
+
+The JCG shall consult the stakeholders to determine appropriateness
+of the project and advise the proposer.
+
+
+==== Initiation by CalConnect
+
+CalConnect may propose to the appropriate ISO TC(s) to
+jointly develop a new or existing CalConnect standard
+to gain recognition as an ISO/CalConnect Standard.
+
+
+==== Initiation by ISO TC
+
+If an ISO TC wishes to initiate the joint development of a
+standard, the ISO TC secretariat shall contact the appropriate
+CalConnect TC to gauge mutual interest.
+
+
+
+=== Proposal submission: Proposal stage
+
+==== General
+
+When the JCG determines interest within {collaboration-party} to co-develop the
+proposed project, the project proposer should submit a proposal
+indicating its wish to co-develop the proposed project,
+to be approved by the relevant ISO and CalConnect TCs via ballot.
+
+
+==== Initiation by CalConnect
+
+CalConnect shall provide a NWIP in accordance with <<ISODIR1C>> for the
+proposal of new work items.
+
+In addition, the NWIP shall include:
+
+* rationale for using this process; and
+* justification of the need for an ISO/CalConnect International
+Standard.
+
+
+==== Initiation by ISO TC
+
+An ISO member shall submit a NWIP to the ISO TC for approval
+in accordance with <<ISODIR1C>>.
+
+Concurrently, the corresponding CalConnect TC will submit a
+project proposal to the CalConnect TCC, providing the relevant
+information for the project and a statement that the project
+is to be developed jointly with the relevant ISO TC.
+
+
+==== Fast-track proposal at ISO
+
+When the ISO NWIP is accompanied by an existing CalConnect standard,
+members of the ISO TC will be invited to approve its submission as a DIS.
+
+NOTE: A two-thirds (2/3) majority vote of participating ISO P-members
+is required for approval (<<ISODIR1C>>).
+
+
+[[codevelopment-approval]]
+==== Approval of co-development
+
+If both organizations approve the proposal for joint development,
+the project shall be adopted on both sides by a CalConnect
+TC and an ISO TC.
+
+The JCG shall then create a joint project group to be the project
+owner of the proposed joint work item through the CalConnect TCC and the
+secretariat of the ISO TC, consisting of nominated experts from the
+relevant CalConnect and ISO TCs.
+
+ISO and CalConnect will mutually agree on a Convener for the JPG.
+
+This approved project shall be listed in the JCG register of
+co-developed projects.
+
+
+// Once the document is accepted in TC 211 via ballot, a project
+// leader shall be selected from the project group.
+
+
+
+
+=== Content development: Preparatory, Committee, Enquiry stages
+
+==== General
+
+The goal of these stages are to create an approved, balloted
+draft of the joint deliverable by both parties.
+
+////
+The JG will work cooperatively to develop a text and achieve consensus
+amongst the appointed experts.
+////
+
+
+In these stages, members of the joint project group shall
+collaborate closely to ensure efficient and effective
+development of the deliverable of the respective stages.
+The deliverable shall be developed jointly by experts of
+both organizations.
+
+==== Stage synchronization
+
+The approval process at CalConnect and ISO shall be adhered to.
+CalConnect agrees to synchronize its project stage with
+the corresponding ISO project stage.
+
+Specifically:
+
+* If a deliverable is approved by ballot at both ISO and CalConnect,
+  CalConnect will advance the project stage at its
+  project group accordingly.
+
+* If a deliverable is rejected by ballot at either party,
+  CalConnect will not advance project stage at its
+  project group, unless a re-ballot at {collaboration-party} approves
+  advancement of the deliverable.
+
+* In cases where a development stage is optional and skipped
+  in accordance with <<ISODIR1>> and <<ISODIR1C>>, CalConnect
+  shall set the stage of its project at the corresponding
+  stage.
+
+
+==== Approval of a committee draft
+
+Once consensus is reached within the JPG, the draft is circulated to
+the relevant ISO and CalConnect TCs for three-month comment.
+
+The JPG prepares a compilation of comments received from both
+organizations and develops a revised draft.
+
+
+[[approval-dis]]
+==== Approval of a draft standard
+
+Once consensus within the JPG is achieved, the draft is provided to ISO
+for DIS ballot and CalConnect for DS ballot.
+
+Once balloting and approval at that stage, from both organizations, is
+completed, the JPG prepares the document for circulation by ISO for a
+two-month FDIS vote (according to <<ISODIR1C>>, unanimous approval in
+ISO during DIS ballot implies that a further FDIS ballot is not
+necessary).
+
+In parallel, CalConnect submits the draft to the CalConnect TCC for FS
+ballot.
+
+
+[[approval-fdis]]
+==== Approval for publication
+
+The document is considered approved when:
+
+* ISO achieves the requisite FDIS approval (or unanimous DIS approval),
+in accordance with <<ISODIR1C>>, and;
+
+* CalConnect TCC has provided its requisite approval, in accordance
+with <<CALSTD>>.
+
+Once the document has been approved by both ISO and CalConnect, the
+document is published as a joint ISO/CalConnect standard.
+
+
+[[process-public-review]]
+=== Pre-publication: Public review
+
+A public review period of 60 days is required for the compliance
+to <<WTOTBT>> rules, for which both ISO and CalConnect adhere to.
+
+A 60-day public review shall be held in the DIS stage of the ISO deliverable.
+
+Comments to ISO shall be performed according to <<ISODIR1>> and <<ISODIR1C>>;
+comments to CalConnect shall be performed through CalConnect's public review procedure.
+
+The parties agree to synchronize the dates of review periods for the
+maximum benefit to the joint work item.
+
+
+////
+Public draft period will be an open one at CalConnect, it will be at
+the stage of pre-publication.
+////
+
+[[process-publication]]
+=== Publication
+
+==== As a CalConnect Standard
+
+After an ISO ballot on the acceptance of a joint work item as
+DIS, FDIS or IS, the joint work item will be published
+as a CalConnect Standard.
+
+[[process-pub-isocc]]
+==== As an ISO/CalConnect Standard
+
+After an ISO ballot on the acceptance of a joint work item's status
+to proceed to IS from FDIS, the joint work item will be published by
+ISO and CalConnect as an ISO/CalConnect Standard.
+
+
+[[process-abandonment]]
+=== Abandonment
+
+A joint work item may be abandoned by one of the two parties if it sees
+it being inappropriate or is no longer interested or able to contribute
+to the joint work item. Each party is allowed to abandon the joint
+work, which at that point will become sole work of the other party.
+
+A notice of such must be sent by the abandoning party to the JCG and
+distributed by both parties to its members.
+
+The abandoning party, if the abandoned work is carried on by the other
+party, is required to explicitly agree that the copyright of such work
+is to be waived to the continuing party to allow publication of the document.
+
+The rejoining an abandoned work item prior to publication, by the abandoning party,
+is explicitly allowed by this agreement, given a notice is filed at
+the JCG, unless in exceptional circumstances.
+
+
+=== Additional collaborators
+
+Parties may bring in additional collaborators under this agreement,
+given it is approved by the JCG, that the provisions of this agreement
+are fully satisfied by agreements present between all collaborators.
+
+
+=== Notification
+
+Notification of availability of new documents within CalConnect
+will be announced to the appropriate ISO TCs and CalConnect TCs.
+
+
+=== Availability of working documents
+
+Drafts and working documents are available according to
+each party's normal practices.
+

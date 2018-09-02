@@ -1,6 +1,6 @@
-= PSDO Agreement between CalConnect and ISO
-:title: PSDO Agreement between CalConnect and ISO
-:docnumber: CD 18001
+= ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
+:title: ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
+:docnumber: CD 10003
 :copyright-year: 2018
 :language: en
 :script: Latn
@@ -25,12 +25,14 @@ include::sections/01-scope.adoc[]
 include::sections/02-normrefs.adoc[]
 include::sections/03-terms.adoc[]
 include::sections/04-authority.adoc[]
-include::sections/05-ipr.adoc[]
-include::sections/06-process.adoc[]
-include::sections/07-maintenance.adoc[]
-include::sections/08-corrections.adoc[]
-include::sections/09-amendments.adoc[]
-include::sections/10-registration.adoc[]
-include::sections/11-document.adoc[]
+include::sections/05-principles.adoc[]
+include::sections/06-amendments.adoc[]
+
+include::sections/a0-exploitation.adoc[]
+include::sections/a1-alignment.adoc[]
+include::sections/a2-procedure-codevelopment.adoc[]
+include::sections/a3-procedure-fast-track.adoc[]
+include::sections/a4-maintenance.adoc[]
+include::sections/a5-document.adoc[]
 
 include::sections/99-bibliography.adoc[]
