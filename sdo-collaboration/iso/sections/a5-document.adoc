@@ -66,10 +66,12 @@ able to do so.
 
 
 [example]
-In "ISO/CC 18001:2018", "ISO/CC" is the prefix, "18001" the project code, and "2018" the edition date.
+In the document identifier "ISO/CC 18001:2018", "ISO/CC" is the prefix,
+"18001" the project code, and "2018" the edition date.
 
 [example]
-"ISO/IEC/CC 28001:2018", "ISO/IEC/CC" is the prefix, "28001" the project code, and "2018" the edition date.
+In the document identifier "ISO/IEC/CC 28001:2018", "ISO/IEC/CC" is the
+prefix, "28001" the project code, and "2018" the edition date.
 
 
 === Project code

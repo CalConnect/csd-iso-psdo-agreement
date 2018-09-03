@@ -10,8 +10,8 @@ This document formalizes the process of collaboration of {collaboration-party}
 and CalConnect to cooperate and to
 enable the collaborative development of standards.
 
-The resulting standards are to be jointly published by {collaboration-party}
-in accordance to the standardization process at {collaboration-party}, and by CalConnect.
+The resulting standards are to be jointly published by {collaboration-party} and CalConnect
+as "ISO/CalConnect Standards", according to processes described in this document.
 
 
 === Background
@@ -29,6 +29,7 @@ The Calendaring and Scheduling Consortium ("`CalConnect`") is global
 non-profit organization with the aim to facilitate interoperability of
 collaborative technologies, with its standards being globally recognized
 and widely applied.
+
 
 === Intention
 
@@ -68,5 +69,5 @@ provides the following benefits:
 * maximizes the quality of the resulting International Standard.
 
 This agreement facilitates a collaborative development process
-for proposed work from CalConnect in conjunction with {collaboration-party}.
-
+for the creation of joint publications (ISO/CalConnect Standards)
+between ISO and CalConnect.
