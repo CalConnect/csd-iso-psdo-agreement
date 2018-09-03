@@ -49,7 +49,7 @@ in accordance with the editorial rules of <<ISODIR2>>.
 
 CalConnect creates publicly available CalConnect Standards through
 a consensus-based standardization process described in
-<<CALSTD>>, and documents created in accordance with <<CALDOC>>.
+<<CALSTD>>, and standard documents created in accordance with <<CALDOC>>.
 
 ////
 CalConnect is a Category A Liaison organization
