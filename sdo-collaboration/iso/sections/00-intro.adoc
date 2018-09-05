@@ -25,10 +25,9 @@ and encourages cooperation between ISO and other standardizing bodies,
 where such cooperation would serve to ensure effective and efficient
 use of resources available for standardization activities.
 
-The Calendaring and Scheduling Consortium ("`CalConnect`") is global
-non-profit organization with the aim to facilitate interoperability of
-collaborative technologies, with its standards being globally recognized
-and widely applied.
+CalConnect aims to facilitate interoperability of collaborative
+technologies with open standards, in particular on calendar, scheduling,
+and contacts; its standards are globally recognized and widely applied.
 
 
 === Intention

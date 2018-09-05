@@ -25,6 +25,13 @@ ISO and CalConnect agree to the establishment of a joint coordination group
 of this agreement.
 
 
+=== Across subject fields
+
+ISO and CalConnect agree that this agreement applies to all subject fields
+subject to approval by both parties.
+
+Details of implementation are provided in <<jcg-fields>>.
+
 
 [[principles-normref]]
 === Normative referencing

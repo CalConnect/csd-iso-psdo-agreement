@@ -59,8 +59,7 @@ written output of a work item
 
 _document_ (<<term-document>>) produced by a _CalConnect TC_ (<<term-cc-tc>>) as described in <<CALSTD>>
 
-that could be a CalConnect Standard,
-Guide, Specification, Report
+NOTE: According to <<CALSTD>>, CalConnect deliverables include the following types: CalConnect Standard, Guide, Specification, Report and Directives. Directives are not considered a standardization work item.
 
 
 [[term-iso-deliverable]]

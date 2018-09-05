@@ -4,8 +4,8 @@
 
 === General
 
-{collaboration-party} and CalConnect establishes a
-Joint Coordination Group ("`JCG`") for:
+{collaboration-party} and CalConnect agrees to establish a standing body,
+the Joint Coordination Group ("`JCG`"), for:
 
 * maintenance and execution of this agreement; and
 * coordination and maintenance of procedures between two organizations.
@@ -25,6 +25,15 @@ The presence of the JCG is not intended to affect
 responsibilities of existing organizational structures
 in {collaboration-party} and CalConnect.
 
+
+[[jcg-fields]]
+=== Fields of collaboration
+
+The JCG is responsible with the determination of the subject fields
+of which this agreement applies to, subject to approval by
+the ISO Technical Management Board and the CalConnect TC PUBLISH and TCC.
+
+
 ////
 === Terms of reference
 
@@ -35,7 +44,7 @@ group.
 
 === Members
 
-The JCG is composed of four members:
+The JCG is composed of an equal number of representatives from both parties:
 
 * Two representatives from {collaboration-party}
 * Two representatives from CalConnect
