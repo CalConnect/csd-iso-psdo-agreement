@@ -39,7 +39,7 @@ CalConnect TC PUBLISH and TCC.
 
 === Process cooperation
 
-ISO and CalConnect wishes to avoid duplication of efforts by their
+ISO and CalConnect wish to avoid duplication of efforts by their
 respective committees.
 
 ISO produces International Standards in accordance with processes described in
