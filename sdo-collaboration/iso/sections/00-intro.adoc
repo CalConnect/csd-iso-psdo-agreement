@@ -4,14 +4,16 @@
 === Purpose
 
 The purpose of this document is to establish an understanding between
-{collaboration-party} and CalConnect on cooperation on standards development.
+{collaboration-party} and CalConnect on cooperation on standards
+development.
 
-This document formalizes the process of collaboration of {collaboration-party}
-and CalConnect to cooperate and to
+This document formalizes the process of collaboration of
+{collaboration-party} and CalConnect to cooperate and to
 enable the collaborative development of standards.
 
-The resulting standards are to be jointly published by {collaboration-party} and CalConnect
-as "ISO/CalConnect Standards", according to processes described in this document.
+The resulting standards are to be jointly published by
+{collaboration-party} and CalConnect as "`ISO/CalConnect Standards`",
+according to processes described in this document.
 
 
 === Background
@@ -32,8 +34,8 @@ and contacts; its standards are globally recognized and widely applied.
 
 === Intention
 
-ISO and CalConnect agree to the principles of cooperation described in this document,
-in all fields subject to approval by the ISO Technical Management Board and the
+ISO and CalConnect agree to the principles of cooperation described in
+this document, in all fields subject to approval by the ISO TMB and the
 CalConnect TC PUBLISH and TCC.
 
 
@@ -42,13 +44,13 @@ CalConnect TC PUBLISH and TCC.
 ISO and CalConnect wish to avoid duplication of efforts by their
 respective committees.
 
-ISO produces International Standards in accordance with processes described in
-<<ISODIR1C>> and <<ISODIR1>>, with the standard documents drafted
-in accordance with the editorial rules of <<ISODIR2>>.
+ISO produces International Standards in accordance with processes
+described in <<ISODIR1C>> and <<ISODIR1>>, with the standard documents
+drafted in accordance with the editorial rules of <<ISODIR2>>.
 
 CalConnect creates publicly available CalConnect Standards through
-a consensus-based standardization process described in
-<<CALSTD>>, and standard documents created in accordance with <<CALDOC>>.
+a consensus-based standardization process described in <<CALSTD>>, and
+standard documents created in accordance with <<CALDOC>>.
 
 ////
 CalConnect is a Category A Liaison organization
@@ -60,9 +62,8 @@ However, both {collaboration-party} and CalConnect believe that
 a collaborative development process provides additional benefits:
 ////
 
-Both {collaboration-party} and CalConnect believe that
-cooperation at the standards development process level
-provides the following benefits:
+Both {collaboration-party} and CalConnect believe that cooperation at
+the standards development process level provides the following benefits:
 
 * maximizes the deliverable expertise of their experts; and
 * maximizes the quality of the resulting International Standard.

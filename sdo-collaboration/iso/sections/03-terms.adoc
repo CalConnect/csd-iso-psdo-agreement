@@ -57,22 +57,29 @@ written output of a work item
 [[term-cc-deliverable]]
 ==== CalConnect deliverable
 
-_document_ (<<term-document>>) produced by a _CalConnect TC_ (<<term-cc-tc>>) as described in <<CALSTD>>
+_document_ (<<term-document>>) produced by a _CalConnect TC_
+(<<term-cc-tc>>) as described in <<CALSTD>>
 
-NOTE: According to <<CALSTD>>, CalConnect deliverables include the following types: CalConnect Standard, Guide, Specification, Report and Directives. Directives are not considered a standardization work item.
+NOTE: According to <<CALSTD>>, CalConnect deliverables include the
+following types: CalConnect Standard, Guide, Specification, Report and
+Directives. Directives are not considered a standardization work item.
 
 
 [[term-iso-deliverable]]
 ==== ISO TC deliverable
 
-_document_ (<<term-document>>) produced by an _ISO TC_ (<<term-iso-tc>>) as described in <<ISODIR1>>
+_document_ (<<term-document>>) produced by an _ISO TC_
+(<<term-iso-tc>>) as described in <<ISODIR1>>
 
-NOTE: According to <<ISODIR1>>, ISO TC deliverables include the following types: International Standards, Technical Specifications, Publicly Available Specifications and Technical Reports.
+NOTE: According to <<ISODIR1>>, ISO TC deliverables include the
+following types: International Standards, Technical Specifications,
+Publicly Available Specifications and Technical Reports.
 
 
 ==== document stage
 
-stage of document as specified in the ISO harmonized stages (as defined in <<ISODIR1C>>)
+stage of document as specified in the ISO harmonized stages (as defined
+in <<ISODIR1C>>)
 
 
 [[term-std-project-output]]
@@ -115,13 +122,14 @@ completed form of a _joint work item_ that is designated to be
 _co-published_ (<<term-co-publish>>) by {collaboration-party}
 and CalConnect
 
-
+[[term-joint-publication]]
 ==== joint publication
 
-publication that is _co-published_ (<<term-co-publish>>) by {collaboration-party} and CalConnect
+publication that is _co-published_ (<<term-co-publish>>) by
+{collaboration-party} and CalConnect
 
-NOTE: different publishers of a joint publication may utilize a
-different document layout
+NOTE: Different publishers of a joint publication may utilize a
+different document layout.
 
 
 
@@ -145,8 +153,9 @@ composed of participants from _ISO committees_ (<<term-iso-tc>>) and _CalConnect
 ==== joint maintenance group
 alt:[JMG]
 
-_joint project group_ (<<term-joint-project-group>>) for the sole purpose of maintaining
-a _joint publication_ (<<term-joint-publication>>)
+_joint project group_ (<<term-joint-project-group>>) for the sole
+purpose of maintaining a
+_joint publication_ (<<term-joint-publication>>)
 
 
 [[term-doc-register]]

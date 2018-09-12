@@ -2,9 +2,9 @@
 [bibliography]
 == Normative References
 
-* [[[CALSTD,CalConnect Directive: Standardization and publication]]], _CD 10001, CalConnect Directive: Standardization and publication_
+* [[[CALSTD,CC/DIR 10001:2018]]], _CC/DIR 10001, CalConnect Directive: Standardization and publication_
 
-* [[[CALDOC,CalConnect Directive: Standard document requirements]]], _CD 10002, CalConnect Directive: Standard document requirements_
+* [[[CALDOC,CC/DIR 10002:2018]]], _CC/DIR 10002, CalConnect Directive: Standard document requirements_
 
 * [[[ISODIR1C,ISO/IEC Directives, Part 1, Consolidated ISO Supplement]]], _ISO/IEC Directives, Part 1, Consolidated ISO Supplement, Procedures specific to ISO_
 
