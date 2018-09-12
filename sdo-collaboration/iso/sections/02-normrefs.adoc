@@ -2,14 +2,14 @@
 [bibliography]
 == Normative References
 
-* [[[CALSTD,CC/DIR 10001:2018]]], _CC/DIR 10001, CalConnect Directive: Standardization and publication_
+* [[[CALSTD,CC/DIR 10001:2018]]], _CalConnect Directive: Standardization and publication_
 
-* [[[CALDOC,CC/DIR 10002:2018]]], _CC/DIR 10002, CalConnect Directive: Standard document requirements_
+* [[[CALDOC,CC/DIR 10002:2018]]], _CalConnect Directive: Standard document requirements_
 
-* [[[ISODIR1C,ISO/IEC Directives, Part 1, Consolidated ISO Supplement]]], _ISO/IEC Directives, Part 1, Consolidated ISO Supplement, Procedures specific to ISO_
+* [[[ISODIR1C,ISO/IEC Directives, Part 1, Consolidated ISO Supplement]]], _Procedures specific to ISO_
 
-* [[[ISODIR1,ISO/IEC Directives, Part 1]]], _ISO/IEC Directives, Part 1, Procedures for the technical work_
+* [[[ISODIR1,ISO/IEC Directives, Part 1]]], _Procedures for the technical work_
 
-* [[[ISODIR2,ISO/IEC Directives, Part 2]]], _ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents_
+* [[[ISODIR2,ISO/IEC Directives, Part 2]]], _Principles and rules for the structure and drafting of ISO and IEC documents_
 
 * [[[ISOGUIDE2,ISO/IEC Guide 2:2004]]], _Standardization and related activities -- General vocabulary_
