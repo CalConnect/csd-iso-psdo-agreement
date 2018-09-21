@@ -32,19 +32,21 @@ GEM
       uuidtools
     htmlentities (4.3.4)
     httpclient (2.8.3)
+    iecbib (0.1.1)
+      iso-bib-item (~> 0.3.0)
     ietfbib (0.4.1)
       iso-bib-item (~> 0.3.0)
     iev (0.2.0)
       nokogiri
     image_size (2.0.0)
-    iso-bib-item (0.3.0)
+    iso-bib-item (0.3.1)
       isoics (~> 0.1.6)
       nokogiri (~> 1.8.4)
       ruby_deep_clone (~> 0.8.0)
     isobib (0.3.1)
       algoliasearch
       iso-bib-item (~> 0.3.0)
-    isodoc (0.9.0)
+    isodoc (0.9.1)
       asciimath
       html2doc (~> 0.8.1)
       htmlentities (~> 4.3.4)
@@ -59,7 +61,7 @@ GEM
     isoics (0.1.7)
     json (2.1.0)
     liquid (4.0.0)
-    metanorma (0.2.8)
+    metanorma (0.2.9)
     metanorma-acme (1.0.1)
       asciidoctor (~> 1.5.7)
       htmlentities (~> 4.3.4)
@@ -78,7 +80,7 @@ GEM
       metanorma-m3d (~> 1.0.1)
       metanorma-rsd (~> 1.0.1)
       metanorma-standoc (~> 1.0.0)
-    metanorma-csand (1.0.4)
+    metanorma-csand (1.0.5)
       asciidoctor (~> 1.5.7)
       asciimath
       htmlentities (~> 4.3.4)
@@ -91,22 +93,22 @@ GEM
       ruby-xslt
       thread_safe
       uuidtools
-    metanorma-csd (1.0.4)
+    metanorma-csd (1.0.5)
       isodoc (~> 0.9.0)
       metanorma-standoc (~> 1.0.0)
-    metanorma-gb (1.0.4)
+    metanorma-gb (1.0.5)
       gb-agencies (~> 0.0.1)
       isodoc (~> 0.9.0)
       metanorma-iso (~> 1.0.1)
       twitter_cldr
-    metanorma-iso (1.0.5)
+    metanorma-iso (1.0.6)
       asciidoctor (~> 1.5.7)
       iev (~> 0.2.0)
       isodoc (~> 0.9.0)
       metanorma-standoc (~> 1.0.0)
       relaton (~> 0.2.0)
       ruby-jing
-    metanorma-m3d (1.0.5)
+    metanorma-m3d (1.0.6)
       asciidoctor (~> 1.5.7)
       asciimath
       htmlentities (~> 4.3.4)
@@ -119,13 +121,13 @@ GEM
       ruby-xslt
       thread_safe
       uuidtools
-    metanorma-rsd (1.0.4)
+    metanorma-rsd (1.0.5)
       asciidoctor (~> 1.5.7)
       htmlentities (~> 4.3.4)
       isodoc (~> 0.9.0)
       metanorma-standoc (~> 1.0.0)
       nokogiri
-    metanorma-standoc (1.0.5)
+    metanorma-standoc (1.0.6)
       asciidoctor (~> 1.5.7)
       iev (~> 0.2.0)
       isodoc (~> 0.9.0)
@@ -141,9 +143,10 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    relaton (0.2.2)
+    relaton (0.2.3)
       algoliasearch
       gbbib (~> 0.3.1)
+      iecbib (~> 0.1.1)
       ietfbib (~> 0.4.1)
       iso-bib-item (~> 0.3.0)
       isobib (~> 0.3.1)
@@ -152,7 +155,7 @@ GEM
       optout (>= 0.0.2)
     ruby-xslt (0.9.10)
     ruby_deep_clone (0.8.0)
-    sass (3.5.7)
+    sass (3.6.0)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
