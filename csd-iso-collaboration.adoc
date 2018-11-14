@@ -1,13 +1,13 @@
 = ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
 :title: ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
-:docnumber: 10003
+:docnumber: 10010
 :copyright-year: 2018
 :language: en
 :script: Latn
 :doctype: standard
 :edition: 1
-:status: final-draft
-:revdate: 2018-08-24T00:00:00Z
+:status: draft-standard
+:revdate: 2018-11-14T00:00:00Z
 :language: en
 :technical-committee: PUBLISH
 :collaboration-party: ISO
