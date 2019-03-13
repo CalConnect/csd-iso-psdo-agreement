@@ -1,0 +1,36 @@
+
+Dear Mr. Walters, Mr. Mujica, Dr. Steedman, Mr. Baltar,
+
+Hope this email finds you well.
+
+The Calendaring and Scheduling Consortium, also known as “CalConnect”, is currently seeking establishment of a PSDO agreement with ISO.
+
+CalConnect is a US registered, 501(c)6 non-profit, tax-exempt, members-driven standards body, known for creating standards related to calendaring, scheduling and digital contacts.
+
+Many CalConnect-developed standards are in ubiquitous use today by billions of people. In fact, practically all Internet calendaring and contact exchange standards since 2005 have been created by our member organizations through the platform of CalConnect. Our iCalendar and vCard standards power the largest cloud services today, including Apple’s iCloud and Google's Calendar and Contacts.
+
+CalConnect currently holds 10 Cat A liaisons with ISO TCs, including, ISO/IEC JTC 1/SC 27, ISO/TC 37, ISO/TC 37/SC 4, ISO/TC 37/SC 5, ISO/TC 46, ISO/TC 46/SC 4, ISO/TC 46/SC 9, ISO/TC 154, ISO/TC 211 and ISO/PC 317.
+
+Our experts have been very active at ISO TCs; as a recent example, we have been heavily involved in the revision of ISO 8601 in ISO/TC 154 -- we contributed over two-thirds of the content in ISO 8601-2 directly from CalConnect standards.
+
+In particular, we are seeking an arrangement for our NWIP currently under ballot in ISO/TC 211 for ISO 19160-6, which is a CalConnect-developed document for the digital representation of physical addresses, which has a worldwide impact. We wish to publish this standard under a dual-logo agreement. Moreover, we have a number of proposals ready for submission to various ISO TCs, but we wish to do them under the right arrangement.
+
+We have enquired of ISO/CS regarding a joint publishing arrangement, and we were advised to develop a PSDO agreement directly with the ISO Council, modeled after two of the existing agreements approved by ISO: one with Open Spatial Consortium, and another one with IEEE.
+
+The draft PSDO agreement is currently being reviewed by ISO/TC 211 and ISO/TC 154, and we foresee the resolutions from these TCs supporting our PSDO agreement to be finalized in early November.
+
+We send you this message to signify our intent to establish a PSDO relationship with ISO, prior to the actual submission of the agreement, to secure a place on your agenda for early discussion. Once we obtain the supporting TC resolutions, we shall return with a formal request on this topic.
+
+In the meantime, please let us know if there is anything else we could provide for your information.
+
+Thank you for your help, and we look forward to discussing this arrangement in depth.
+
+Kind regards,
+Ronald Tse
+Director, External Relations, CalConnect
+
+CC:
+Rutger Geelen, President, CalConnect
+Dave Thewlis, Executive Director, CalConnect
+Andrew Laurence, Chairman of Board, CalConnect
+Gary Schwartz, CFO, CalConnect

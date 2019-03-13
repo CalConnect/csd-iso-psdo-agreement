@@ -1,19 +1,27 @@
 = ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
 :title: ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
 :docnumber: 10010
-:copyright-year: 2018
+:copyright-year: 2019
 :language: en
 :script: Latn
 :doctype: standard
 :edition: 1
-:status: draft-standard
-:revdate: 2018-11-14T00:00:00Z
-:published-date: 2018-11-14T00:00:00Z
+:status: final-draft
+:revdate: 2019-01-18
+:published-date: 2019-01-18
 :language: en
 :technical-committee: PUBLISH
 :collaboration-party: ISO
+:draft:
 :toc:
-
+:stem:
+:xrefstyle: short
+:imagesdir: images
+:docfile: cc-10010.adoc
+:mn-document-class: csd
+:mn-output-extensions: xml,html,pdf
+:local-cache-only:
+:data-uri-image:
 :sectnums!:
 
 include::sections/00-foreword.adoc[]
